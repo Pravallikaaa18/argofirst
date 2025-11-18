@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: mycnt
-          image: shaikmustafa/movie
+          image: shaikmustafa/bus
           ports:
             - containerPort: 80
