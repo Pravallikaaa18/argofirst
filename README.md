@@ -1,0 +1,2 @@
+# argofirst
+my first argocd
